@@ -1,0 +1,22 @@
+{
+  "name": "my-voting-app",
+  "version": "1.0.0",
+  "description": "My FreeCodeCamp's Voting App",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-evans/my-voting-app.git"
+  },
+  "author": "Alex Evans (alex.evans.d@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-evans/my-voting-app/issues"
+  },
+  "homepage": "https://github.com/alex-evans/my-voting-app#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
